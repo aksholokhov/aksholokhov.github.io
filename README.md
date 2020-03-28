@@ -1,2 +1,1 @@
-# aksholokhov
-My personal site
+Aleksei Sholokhov's Personal Website
