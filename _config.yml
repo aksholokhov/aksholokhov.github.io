@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Aleksei Sholokhov's Website
+title: Aleksei Sholokhov's Personal Website
 email: aksh@uw.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Hitting a Road to Ph.D.
+  Hitting the Road to Ph.D.
 twitter_username: aksholokhov
 github_username: aksholokhov
 minimal_mistakes_skin: default
@@ -29,7 +29,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: PST8PDT # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
