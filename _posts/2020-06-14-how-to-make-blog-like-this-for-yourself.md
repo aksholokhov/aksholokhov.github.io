@@ -74,3 +74,11 @@ At the end of its output, it will tell you the address and the port where your b
 1. `_config.yml` -- general description of your site. It also contains your name, email, the site's title, links to your twitter/github/instagram etc. 
 2. `_data/navigation.yml` -- navigation structure of your site. You can add more subsections like "Teaching", or "Publications".
 3. `_posts/` -- your posts live here. There might be several Jekyll-created posts there, so you'll need to delete them and to replace them with your real posts. 
+
+# Additional Tweaks
+## Latex
+If you are going to write about math you'll need to add the $\LaTeX$ support to your site. It's a bit tricky, but [this](https://www.janmeppe.com/blog/How-to-add-mathjax-to-minimal-mistakes/) instruction worked just fine for me:
+
+$$
+    e^{i\pi} = -1
+$$
