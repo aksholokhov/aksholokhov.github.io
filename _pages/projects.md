@@ -6,7 +6,7 @@ title: Projects
 ## Feature Selection for Mixed Models
 *Under the guidance of Dr. Aleksander Aravkin.*
 
-My current primary research interest, a.k.a. my attempt to earn a Ph.D. in applied math, can be broadly described as "Feature Selection and Uncertainty Quantification for Mixed Models in Population Health''. It is mostly centered around my work as a graduate research student in IHME. Here mixed models are used in many projects, and I am working on improving the stability and validity of these statistical models, mainly through efficient algorithms for feature selection and quantification of uncertainty. An $\alpha$-implementation of my ideas can be found [here](https://github.com/aksholokhov/skmixed).
+My current primary research interest, a.k.a. my attempt to earn a Ph.D. in applied math, can be broadly described as "Feature Selection and Uncertainty Quantification for Mixed Models in Population Health''. It is mostly centered around my work as a graduate research student at IHME. Here mixed models are used in many projects, and I am working on improving the stability and validity of these statistical models, mainly through efficient algorithms for feature selection and quantification of uncertainty. An $\alpha$-implementation of my ideas can be found [here](https://github.com/aksholokhov/skmixed).
 
 ## COVID-Project
 As a part of my work in [IHME Math Sciences Team](https://github.com/ihmeuw-msca), I was involved into the creation and implementation of [IHME SEIIR COVID Model](http://www.healthdata.org/sites/default/files/files/Projects/COVID/Estimation_update_050420.pdf), which has been [in use](https://covid19.healthdata.org/projections) staring May, 5th, 2020.
