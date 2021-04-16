@@ -8,13 +8,13 @@ title: Projects
 
 ![skmixed](/assets/images/skmixed.png)
 
-For my PhD thesis, I develop feature selection methods that work well on ill-conditioned data. Such data arises when the features are correlated, or the data contains missing values and outliers. To stabilize model training on such data, I use optimization methods with implicit regularization properties. For instance, [SR3](https://arxiv.org/pdf/1807.05411.pdf) methods implicitly smooth the level-sets of the loss-functions, and I used these properties to create a stable feature-selection method for linear mixed-effects models. You can take my implementation of it [here](https://github.com/aksholokhov/skmixed).
+For my PhD thesis, I develop feature selection methods that work well on ill-conditioned data. Such data arises when the features are correlated or when they contain missing values and outliers. To stabilize model training on such data I use optimization methods that have implicit regularization properties. For instance, [SR3](https://arxiv.org/pdf/1807.05411.pdf) methods implicitly smooth the level-sets of the loss-functions via partial minimization. I used it to create a stable feature-selection method for linear mixed-effects models. Check out my implementation of it [here](https://github.com/aksholokhov/skmixed).
 
 ## COVID-Project
-*As a part of [IHME Math Sciences Team](https://github.com/ihmeuw-msca)*
+*Together with [IHME Math Sciences Team](https://github.com/ihmeuw-msca) and 130+ colleagues across IHME.*
 ![memoir](/assets/images/covid_projections.png)
 
-I worked on the math behind [IHME SEIIR COVID Model](http://www.healthdata.org/sites/default/files/files/Projects/COVID/Estimation_update_050420.pdf), which has been [in use](https://covid19.healthdata.org/projections) staring May, 5th, 2020.
+Together with IHME Math Sciences Team, I worked on the math behind [IHME SEIIR COVID Model](http://www.healthdata.org/sites/default/files/files/Projects/COVID/Estimation_update_050420.pdf), which has been [in use](https://covid19.healthdata.org/projections) staring May, 5th, 2020. We made one of the first COVID-19 models that attracted attention of decision makers across the world and provided guidance for the distribution of ICUs during the first surge of the pandemic.
 
 ## MEMOIR
 *Jointly with Maximov Yury, Massih-Resa Amini, and Belyy Anton.*
