@@ -1,5 +1,5 @@
 ---
-title: "How to Make a Blog Like This for Youself"
+title: "How to Make a Blog Like This for Yourself"
 date: 2020-06-14
 categories:
   - blog
