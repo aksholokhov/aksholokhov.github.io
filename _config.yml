@@ -60,15 +60,15 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Ph.D. Student in Applied Mathematics, University of Washington."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://aksholokhov.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/aksholokhov"
+    - label: "Google Scholar"
+      icon: "fa fa-solid fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=_2uniNcAAAAJ&hl=en&oi=ao"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/aksholokhov"
+    - label: "LinkedIn"
+      icon: "fab fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/aksholokhov/"
 
 
 footer:
